@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/rm199/rm199/_apis/build/status/rpondergt.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/rm199/rm199/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
